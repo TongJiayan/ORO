@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/homePage/homePage",
+    "pages/category/boxedCategory",
+    "pages/category/basinedCategory",
+    "pages/category/doubleCategory",
+    "pages/detail/detail",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "ORO线上订购",
+    "navigationBarTextStyle": "black"
+  }
+}
