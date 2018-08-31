@@ -1,0 +1,5 @@
+/* pages/homePage/homePage.wxss */
+image
+{
+  width: 100%;
+}

@@ -1,0 +1,5 @@
+/* pages/category/basinedCategory.wxss */
+image
+{
+  width: 100%
+}

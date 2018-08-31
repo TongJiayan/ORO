@@ -1,0 +1,5 @@
+/* pages/category/doubleCategory.wxss */
+image
+{
+  width: 100%
+}

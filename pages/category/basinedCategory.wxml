@@ -1,0 +1,8 @@
+<!--pages/category/basinedCategory.wxml-->
+<view>
+    <block wx:for="{{basinedTiramisu}}" wx:for-item="item" wx:for-index="idx">
+        <view catchtap="onTapToDetail" data-post-id="{{item.cakeId}}">
+            <image src='{{item.imgsrc}}' mode='widthFix'></image>
+        </view>
+     </block>
+</view>

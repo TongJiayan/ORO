@@ -1,0 +1,9 @@
+<!--pages/homePage/homePage.wxml-->
+<view>
+  <image src='https://wx1.sinaimg.cn/mw690/67f87ad9gy1fupjegck5vj20mv0zxb29.jpg' mode="widthFix"></image>
+  <image src='https://wx3.sinaimg.cn/mw690/67f87ad9gy1fupjeesgcuj20mx0i9gvz.jpg' mode="widthFix" bindtap='onTapBoxedCategory'></image>
+  <image src='https://wx4.sinaimg.cn/mw690/67f87ad9gy1fupjefglxxj20mx0h9n72.jpg' mode="widthFix" bindtap='onTapBasinedCategory'></image>
+  <image src='https://wx2.sinaimg.cn/mw690/67f87ad9gy1fupjef8pk1j20mx0hjqd5.jpg' mode="widthFix" bindtap='onTapDoubleCategory'></image>
+  <image src='https://wx3.sinaimg.cn/mw690/67f87ad9gy1fupjeekt64j20mx0hl131.jpg' mode="widthFix" bindtap='onTapSpecialDetail'></image>
+  <image src='https://wx3.sinaimg.cn/mw690/67f87ad9gy1fupjef54x1j20mz0jz4ax.jpg' mode="widthFix" bindtap='onTapCroissantsDetail'></image>
+</view>

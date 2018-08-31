@@ -1,0 +1,5 @@
+/* pages/category/boxedCategory.wxss */
+image
+{
+  width: 100%
+}
